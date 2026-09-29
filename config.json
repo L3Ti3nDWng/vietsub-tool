@@ -1,0 +1,17 @@
+{
+  "subtitle_style": {
+    "font_family": "Arial",
+    "font_size": 4.8,
+    "text_color": "#FFFFFF",
+    "border_color": "#111111",
+    "border_width": 3,
+    "sub_pos_x": 0.5,
+    "sub_pos_y": 0.95,
+    "effect": "Fade In/Out",
+    "single_line": true
+  },
+  "voice_type": "BV075_streaming",
+  "speech_rate": 1.0,
+  "ducking_volume": 0.18,
+  "translation_engine": "chatgpt"
+}

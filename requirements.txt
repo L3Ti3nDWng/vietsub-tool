@@ -1,0 +1,8 @@
+customtkinter>=6.0.0
+opencv-python>=4.8.0
+moviepy>=2.0.0
+numpy>=1.24.0
+capcut-tts-api @ https://github.com/K07VN/capcut-tts-api/archive/refs/heads/main.zip
+playwright>=1.40.0
+Pillow>=10.0.0
+requests>=2.31.0

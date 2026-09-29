@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Binaries & Large Tools
+bin/
+ffmpeg.exe
+ffprobe.exe
+
+# Browser Data & Private User Profiles
+data/browser_profile/
+data/cache/
+
+# Temp Media & Output
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.mp3
+*.wav
+*.aac
+*.ass
+*.srt
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
